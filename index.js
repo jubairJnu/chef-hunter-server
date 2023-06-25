@@ -3,7 +3,7 @@ const app = express();
 const port = 5000;
 const cors = require('cors')
 const chefs = require('./data/chef-catagory.json')
-const recipes = require('./data/recipes.json')
+const blog = require('./data/blog.json')
 
 
 app.use(cors())
@@ -14,7 +14,9 @@ app.get('/chefs',(req,res)=>{
   res.send(chefs);
 })
 
-
+app.get('/blog',(req, res)=>{
+  res.send(blog);
+})
 
 app.get('/chefs/:id',( req, res)=>{
   const id = parseInt(req.params.id);
