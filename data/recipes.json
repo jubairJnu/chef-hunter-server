@@ -1,0 +1,333 @@
+[
+ 
+  {
+    "chef_id": 1,
+    "name": "John Smith",
+    "picture": "https://i.ibb.co/GRSt9Zf/chef3.jpg",
+    "experience": 10,
+    "recipe": 50,
+    "likes": 1000,
+    "bio": "John Smith is a renowned chef known for his expertise in American cuisine. With over 10 years of culinary experience, he has mastered the art of creating delicious and innovative dishes. His passion for food is evident in his wide range of recipes that showcase his unique style and creativity.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "name": "Cheeseburger",
+        "ingredients": [
+          "1 pound ground beef",
+          "4 hamburger buns",
+          "4 slices of American cheese",
+          "Lettuce",
+          "Tomato slices",
+          "Onion slices"
+        ],
+        "cooking_method": "1. Preheat the grill or stovetop skillet.\n2. Divide the ground beef into four equal portions and shape them into patties.\n3. Season the patties with salt and pepper.\n4. Place the patties on the preheated grill or skillet and cook for about 4-5 minutes per side, or until they reach your desired level of doneness.\n5. During the last minute of cooking, place a slice of American cheese on each patty to melt.\n6. Toast the hamburger buns on the grill or skillet.\n7. Assemble the cheeseburgers by placing a cooked patty on the bottom half of each bun.\n8. Top with lettuce, tomato slices, and onion slices.\n9. Close the burgers with the top half of the buns.\n10. Serve hot and enjoy!",
+        "picture": "cheeseburger.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "name": "BBQ Ribs",
+        "ingredients": [
+          "2 racks of baby back ribs",
+          "1 cup barbecue sauce",
+          "1/4 cup brown sugar",
+          "1 tablespoon paprika",
+          "1 tablespoon garlic powder",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Preheat the oven to 300°F (150°C).\n2. In a small bowl, mix together the brown sugar, paprika, garlic powder, salt, and pepper to create a dry rub.\n3. Remove the membrane from the back of the ribs.\n4. Rub the dry rub all over the ribs, covering them evenly.\n5. Wrap each rack of ribs tightly in aluminum foil.\n6. Place the wrapped ribs on a baking sheet and bake in the preheated oven for 2.5-3 hours, or until the meat is tender.\n7. Remove the ribs from the oven and unwrap them.\n8. Preheat the grill to medium-high heat.\n9. Brush the ribs with barbecue sauce and grill them for about 5 minutes per side, or until they develop a caramelized crust.\n10. Remove from the grill, let them rest for a few minutes, then slice and serve with extra barbecue sauce on the side.",
+        "picture": "bbq_ribs.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "name": "Caesar Salad",
+        "ingredients": [
+          "1 head of romaine lettuce",
+          "1 cup croutons",
+          "1/2 cup grated Parmesan cheese",
+          "1/4 cup Caesar dressing",
+          "1 lemon, juiced",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Wash and dry the romaine lettuce. Tear the leaves into bite-sized pieces.\n2. In a large salad bowl, combine the torn lettuce, croutons, and grated Parmesan cheese.\n3. In a small bowl, whisk together the Caesar dressing and lemon juice.\n4. Drizzle the dressing over the salad and toss to coat the ingredients evenly.\n5. Season with salt and pepper to taste.\n6. Serve the Caesar salad immediately as a side dish or add grilled chicken or shrimp to make it a main course.",
+        "picture": "caesar_salad.jpg"
+      },
+      {
+        "recipe_id": 4,
+        "name": "Chocolate Chip Cookies",
+        "ingredients": [
+          "1 cup unsalted butter, softened",
+          "1 cup granulated sugar",
+          "1 cup brown sugar",
+          "2 large eggs",
+          "1 teaspoon vanilla extract",
+          "3 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1/2 teaspoon salt",
+          "2 cups chocolate chips"
+        ],
+        "cooking_method": "1. Preheat the oven to 375°F (190°C).\n2. In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until light and fluffy.\n3. Add the eggs one at a time, beating well after each addition.\n4. Stir in the vanilla extract.\n5. In a separate bowl, combine the all-purpose flour, baking soda, and salt.\n6. Gradually add the dry ingredients to the butter mixture, mixing until just combined.\n7. Fold in the chocolate chips.\n8. Drop rounded tablespoonfuls of dough onto ungreased baking sheets.\n9. Bake in the preheated oven for 9-11 minutes, or until the edges are golden brown.\n10. Allow the cookies to cool on the baking sheets for a few minutes, then transfer them to wire racks to cool completely.",
+        "picture": "chocolate_chip_cookies.jpg"
+      }
+    ]
+  },
+  
+  {
+    "chef_id": 2,
+    "name": "Maria Garcia",
+    "picture": "https://i.ibb.co/vhS5G83/chef2.jpg",
+    "experience": 8,
+    "recipe": 75,
+    "likes": 1200,
+    "bio": "Maria Garcia is a talented chef specializing in Bangladeshi cuisine. With 8 years of experience in the culinary industry, she brings a rich cultural heritage to her dishes. Maria's recipes reflect her passion for authentic flavors and her commitment to showcasing the vibrant and diverse Bangladeshi food culture.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "name": "Chicken Biryani",
+        "ingredients": [
+          "2 cups basmati rice",
+          "500g chicken, cut into pieces",
+          "1 large onion, sliced",
+          "4 cloves of garlic, minced",
+          "2-inch ginger, grated",
+          "2 green chilies, sliced"
+        ],
+        "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. Drain and set aside.\n2. Heat oil or ghee in a large pot. Add sliced onions and cook until golden brown.\n3. Add minced garlic, grated ginger, and green chilies. Cook for a minute.\n4. Add chicken pieces and cook until they are browned.\n5. Add soaked rice to the pot and gently mix with the chicken and spices.\n6. Add enough water to cook the rice (approximately 3 cups). Bring it to a boil.\n7. Reduce the heat, cover the pot, and simmer for about 15-20 minutes or until the rice is cooked and the chicken is tender.\n8. Once cooked, fluff the rice with a fork and garnish with fried onions, mint leaves, and coriander leaves.\n9. Serve hot and enjoy!"
+      },
+      {
+        "recipe_id": 2,
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "500g Ilish (Hilsa) fish pieces",
+          "4 tablespoons mustard paste",
+          "2 green chilies, slit",
+          "1/2 teaspoon turmeric powder",
+          "1 teaspoon red chili powder",
+          "1/4 teaspoon nigella seeds (kalonji)"
+        ],
+        "cooking_method": "1. Marinate the fish pieces with turmeric powder and salt. Set aside for 10 minutes.\n2. Heat mustard oil in a pan. Fry the marinated fish pieces until golden brown. Remove and keep aside.\n3. In the same pan, add nigella seeds and sauté for a few seconds.\n4. Add the slit green chilies and sauté for a minute.\n5. Add mustard paste, turmeric powder, red chili powder, and salt. Mix well.\n6. Add a little water to make a smooth sauce. Cook for a couple of minutes.\n7. Add the fried fish pieces to the sauce. Coat the fish with the mustard sauce.\n8. Cover the pan and cook on low heat for about 5-7 minutes.\n9. Once the fish is cooked and the sauce thickens, remove from heat.\n10. Serve hot with steamed rice."
+      },
+      {
+        "recipe_id": 3,
+        "name": "Beef Bhuna",
+        "ingredients": [
+          "500g beef, cut into cubes",
+          "2 large onions, finely chopped",
+          "4 cloves of garlic, minced",
+          "1-inch ginger, grated",
+          "2 green chilies, sliced",
+          "1 teaspoon turmeric powder"
+        ],
+        "cooking_method": "1. Heat oil in a pan. Add chopped onions and sauté until golden brown.\n2. Add minced garlic, grated ginger, and green chilies. Cook for a minute.\n3. Add beef cubes and cook until they are browned.\n4. In a small bowl, mix together turmeric powder, red chili powder, coriander powder, cumin powder, and salt.\n5. Add the spice mixture to the pan and mix well with the beef.\n6. Cook on medium heat until the spices are well combined and the beef is cooked.\n7. Add yogurt and garam masala. Mix well and cook for another 5 minutes.\n8. Once the beef is tender and the masala thickens, remove from heat.\n9. Garnish with fresh coriander leaves.\n10. Serve hot with naan or rice."
+      }
+    ]
+  },
+  
+  {
+    "chef_id": 3,
+    "name": "Chen Wei",
+    "picture": "https://i.ibb.co/4frTrtQ/chef1.jpg",
+    "experience": 15,
+    "recipe": 100,
+    "likes": 2500,
+    "bio": "Chen Wei is a highly skilled chef renowned for his expertise in Chinese cuisine. With 15 years of culinary experience, he has honed his skills in traditional Chinese cooking techniques and flavor profiles. Chen's culinary creations reflect his dedication to preserving the authenticity of Chinese dishes while adding his own creative twist.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "name": "Kung Pao Chicken",
+        "ingredients": [
+          "1 lb chicken breast, diced",
+          "1/2 cup peanuts",
+          "2 tablespoons vegetable oil",
+          "2 cloves of garlic, minced",
+          "1 tablespoon ginger, grated",
+          "1/2 cup diced bell peppers"
+        ],
+        "cooking_method": "1. Heat vegetable oil in a wok or large skillet over high heat.\n2. Add minced garlic and grated ginger. Stir-fry for 1 minute.\n3. Add diced chicken to the wok and stir-fry until it's cooked through.\n4. Add diced bell peppers and peanuts to the wok. Stir-fry for an additional 2 minutes.\n5. In a small bowl, mix together soy sauce, vinegar, sugar, and cornstarch.\n6. Pour the sauce over the chicken and vegetables. Stir-fry for 1-2 minutes or until the sauce thickens.\n7. Serve hot with steamed rice."
+      },
+      {
+        "recipe_id": 2,
+        "name": "Sweet and Sour Pork",
+        "ingredients": [
+          "1 lb pork loin, cut into cubes",
+          "1/2 cup pineapple chunks",
+          "1/2 cup bell peppers, diced",
+          "1/2 cup onion, diced",
+          "2 tablespoons vegetable oil",
+          "1/4 cup ketchup"
+        ],
+        "cooking_method": "1. Heat vegetable oil in a wok or large skillet over high heat.\n2. Add pork cubes to the wok and stir-fry until they're browned and cooked through.\n3. Add diced bell peppers and onions to the wok. Stir-fry for an additional 2 minutes.\n4. In a small bowl, mix together ketchup, vinegar, sugar, soy sauce, and cornstarch.\n5. Pour the sauce over the pork and vegetables. Stir-fry for 1-2 minutes or until the sauce thickens.\n6. Add pineapple chunks to the wok and stir-fry for another minute.\n7. Serve hot with steamed rice."
+      },
+      {
+        "recipe_id": 3,
+        "name": "Mapo Tofu",
+        "ingredients": [
+          "1 block firm tofu, cut into cubes",
+          "1/2 lb ground pork",
+          "2 tablespoons vegetable oil",
+          "2 cloves of garlic, minced",
+          "1 tablespoon ginger, grated",
+          "2 tablespoons doubanjiang (fermented bean paste)"
+        ],
+        "cooking_method": "1. Heat vegetable oil in a wok or large skillet over medium heat.\n2. Add minced garlic and grated ginger. Stir-fry for 1 minute.\n3. Add ground pork to the wok and stir-fry until it's cooked through.\n4. Add doubanjiang to the wok and stir-fry for another minute.\n5. Gently add tofu cubes to the wok. Stir gently to coat the tofu with the sauce.\n6. Simmer for 5-7 minutes or until the tofu is heated through.\n7. Serve hot with steamed rice."
+      }
+    ]
+  },
+  {
+    "chef_id": 4,
+    "name": "Priya Patel",
+    "picture": "https://i.ibb.co/DLXn6cm/chef.jpg",
+    "experience": 5,
+    "recipe": 40,
+    "likes": 800,
+    "bio": "Priya Patel is a talented chef specializing in Indian cuisine. Despite her relatively short 5 years of experience, she has garnered a loyal following for her flavorful and aromatic dishes. Priya's passion for Indian spices and her ability to create harmonious blends of flavors make her recipes a true culinary delight.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+          "1 lb chicken breast, cut into pieces",
+          "1 cup plain yogurt",
+          "2 tablespoons vegetable oil",
+          "1 large onion, finely chopped",
+          "2 cloves of garlic, minced",
+          "1 tablespoon ginger, grated"
+        ],
+        "cooking_method": "1. In a bowl, mix yogurt, ginger-garlic paste, turmeric powder, red chili powder, garam masala, and salt.\n2. Marinate the chicken pieces in the yogurt mixture and let it sit for at least 30 minutes or overnight.\n3. Heat oil in a pan and add chopped onions. Cook until they turn golden brown.\n4. Add minced garlic and grated ginger to the pan. Cook for another minute.\n5. Add marinated chicken pieces to the pan and cook until they are browned.\n6. Pour tomato puree into the pan and stir well.\n7. Add water if needed and simmer for about 15-20 minutes or until the chicken is cooked through.\n8. Garnish with fresh coriander leaves.\n9. Serve hot with naan or rice.",
+        "picture": "chicken_tikka_masala.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "name": "Palak Paneer",
+        "ingredients": [
+          "1 lb paneer (Indian cottage cheese), cubed",
+          "4 cups spinach leaves",
+          "2 tablespoons ghee",
+          "1 large onion, finely chopped",
+          "2 cloves of garlic, minced",
+          "1 tablespoon ginger, grated"
+        ],
+        "cooking_method": "1. Blanch the spinach leaves in boiling water for 2 minutes. Drain and let them cool.\n2. Blend the blanched spinach leaves into a smooth paste.\n3. Heat ghee in a pan and add chopped onions. Cook until they turn golden brown.\n4. Add minced garlic and grated ginger to the pan. Cook for another minute.\n5. Add the spinach paste to the pan and stir well.\n6. Add salt, turmeric powder, cumin powder, and garam masala. Mix well.\n7. Gently add paneer cubes to the pan and simmer for 5-7 minutes.\n8. Serve hot with naan or rice.",
+        "picture": "palak_paneer.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "name": "Vegetable Biryani",
+        "ingredients": [
+          "2 cups basmati rice",
+          "2 cups mixed vegetables (carrots, peas, beans, etc.), diced",
+          "1 large onion, thinly sliced",
+          "2 cloves of garlic, minced",
+          "1 tablespoon ginger, grated",
+          "2 green chilies, sliced"
+        ],
+        "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. Drain and set aside.\n2. Heat ghee or oil in a large pot. Add sliced onions and cook until golden brown.\n3. Add minced garlic, grated ginger, and green chilies. Cook for a minute.\n4. Add mixed vegetables and cook until they are slightly tender.\n5. Add soaked rice to the pot and gently mix with the vegetables.\n6. Add water, salt, and any additional spices of your choice. Bring it to a boil.\n7. Reduce the heat, cover the pot, and let it simmer until the rice is cooked and the flavors are well combined.\n8. Serve hot with raita or yogurt.",
+        "picture": "vegetable_biryani.jpg"
+      }
+    ]
+  },
+  {
+    "chef_id": 6,
+    "name": "Sophia Lacroix",
+    "picture": "https://i.ibb.co/dLpR6Nh/chef4.jpg",
+    "experience": 6,
+    "recipe": 60,
+    "likes": 1100,
+    "bio": "Sophia Lacroix is a talented chef specializing in Mediterranean cuisine. With 6 years of experience, she has honed her skills in crafting healthy and flavorful dishes inspired by the Mediterranean region. Sophia's culinary creations highlight the freshness of ingredients, the vibrant colors, and the bold flavors that make Mediterranean food so popular.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "name": "Greek Salad",
+        "ingredients": [
+          "2 large tomatoes, diced",
+          "1 cucumber, diced",
+          "1 red onion, thinly sliced",
+          "1 bell pepper, diced",
+          "Kalamata olives, pitted",
+          "Feta cheese, crumbled"
+        ],
+        "cooking_method": "1. In a large bowl, combine the diced tomatoes, cucumber, red onion, and bell pepper.\n2. Add Kalamata olives and crumbled Feta cheese.\n3. Toss the ingredients gently to combine.\n4. Serve the Greek salad chilled as a refreshing appetizer or side dish.",
+        "picture": "https://example.com/greek_salad.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "name": "Hummus",
+        "ingredients": [
+          "1 can chickpeas, drained and rinsed",
+          "3 tablespoons tahini",
+          "2 tablespoons lemon juice",
+          "2 cloves garlic, minced",
+          "2 tablespoons olive oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. In a food processor, combine the chickpeas, tahini, lemon juice, garlic, and olive oil.\n2. Process the mixture until smooth and creamy.\n3. If the hummus is too thick, add a little water and continue blending.\n4. Season with salt to taste and blend again.\n5. Transfer the hummus to a serving bowl.\n6. Drizzle with olive oil and garnish with a sprinkle of paprika or chopped parsley, if desired.\n7. Serve the hummus with pita bread, crackers, or fresh vegetables.",
+        "picture": "https://example.com/hummus.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "name": "Mediterranean Pasta Salad",
+        "ingredients": [
+          "2 cups cooked pasta",
+          "Cherry tomatoes, halved",
+          "Cucumber, diced",
+          "Red onion, thinly sliced",
+          "Black olives, pitted",
+          "Feta cheese, crumbled"
+        ],
+        "cooking_method": "1. In a large bowl, combine the cooked pasta, cherry tomatoes, cucumber, red onion, and black olives.\n2. Add crumbled Feta cheese and toss gently.\n3. For the dressing, whisk together olive oil, lemon juice, minced garlic, dried oregano, salt, and pepper.\n4. Pour the dressing over the pasta salad and toss to coat.\n5. Serve the Mediterranean pasta salad chilled as a refreshing and flavorful side dish.",
+        "picture": "https://example.com/mediterranean_pasta_salad.jpg"
+      }
+    ]
+  },
+  
+    {   
+       "chef_id": 5,
+      "name": "Somsak Wongthanakit",
+      "picture": "https://i.ibb.co/dLpR6Nh/chef4.jpg",
+      "experience": 12,
+      "recipe": 80,
+      "likes": 1500,
+      "bio": "Somsak Wongthanakit is an esteemed chef known for his expertise in Thai cuisine. With 12 years of experience, he has mastered the intricate balance of sweet, sour, spicy, and savory flavors that Thai food is famous for. Somsak's culinary creations showcase his meticulous attention to detail and his dedication to bringing authentic Thai flavors to the plate.",
+      "recipes": [
+        {
+          "recipe_id": 1,
+          "name": "Pad Thai",
+          "ingredients": [
+            "8 ounces rice noodles",
+            "2 tablespoons vegetable oil",
+            "2 cloves of garlic, minced",
+            "1/2 cup tofu, cubed",
+            "2 eggs, lightly beaten",
+            "1 cup bean sprouts"
+          ],
+          "cooking_method": "1. Cook rice noodles according to package instructions. Drain and set aside.\n2. Heat vegetable oil in a wok or large skillet over medium-high heat.\n3. Add minced garlic and cubed tofu. Stir-fry for 2 minutes.\n4. Push the tofu and garlic to one side of the pan. Pour beaten eggs into the other side and scramble until cooked.\n5. Add cooked rice noodles to the pan and mix with tofu, garlic, and eggs.\n6. Add bean sprouts and stir-fry for 2-3 minutes or until everything is well combined.\n7. Serve hot and garnish with crushed peanuts, lime wedges, and cilantro, if desired."
+        },
+        {
+          "recipe_id": 2,
+          "name": "Green Curry",
+          "ingredients": [
+            "1 can (13.5 oz) coconut milk",
+            "2 tablespoons green curry paste",
+            "1 lb chicken or tofu, cut into bite-sized pieces",
+            "1 cup bell peppers, sliced",
+            "1 cup bamboo shoots",
+            "1 cup green beans"
+          ],
+          "cooking_method": "1. In a large pan, heat coconut milk over medium heat until it starts to simmer.\n2. Add green curry paste to the pan and stir well to combine with the coconut milk.\n3. Add chicken or tofu to the pan and cook until they are almost cooked through.\n4. Add bell peppers, bamboo shoots, and green beans. Stir-fry for 2-3 minutes.\n5. Simmer for another 5-7 minutes or until all the ingredients are cooked through.\n6. Serve hot with steamed rice."
+        },
+        {
+          "recipe_id": 3,
+          "name": "Tom Yum Soup",
+          "ingredients": [
+            "4 cups chicken or vegetable broth",
+            "1 stalk lemongrass, cut into pieces",
+            "3-4 kaffir lime leaves",
+            "2 slices galangal",
+            "1/2 lb shrimp, peeled and deveined",
+            "4 ounces mushrooms, sliced"
+          ],
+          "cooking_method": "1. In a pot, bring the chicken or vegetable broth to a boil.\n2. Add lemongrass, kaffir lime leaves, and galangal. Simmer for 5-10 minutes to infuse the flavors.\n3. Add shrimp and mushrooms to the pot. Cook until the shrimp turns pink and is cooked through.\n4. Season with fish sauce and lime juice. Adjust the taste with chili paste and sugar.\n5. Simmer for another 2-3 minutes.\n6. Serve hot and garnish with fresh cilantro leaves."
+        }
+      ]
+    }
+    
+]
